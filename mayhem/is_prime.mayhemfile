@@ -1,0 +1,7 @@
+project: fhe.rs
+target: is_prime
+duration: 90
+
+cmds:
+    - cmd: /is_prime
+
